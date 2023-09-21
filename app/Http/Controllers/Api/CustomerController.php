@@ -68,7 +68,7 @@ $customer ->save();
      */
     public function edit(string $id)
     {
-        //
+        return "edit";
     }
 
     /**
